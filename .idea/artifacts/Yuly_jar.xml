@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Yuly:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Yuly_jar</output-path>
+    <root id="archive" name="Yuly.jar">
+      <element id="module-output" name="Yuly" />
+    </root>
+  </artifact>
+</component>
